@@ -39,7 +39,8 @@ Completar `monitoreo_edificio_base.py` para que:
 ejercicio-monitoreo-edificio/
 |-- README.md
 `-- ejercicio/
-    `-- monitoreo_edificio_base.py
+    |-- monitoreo_edificio_base.py
+    `-- test_monitoreo_edificio.py
 ```
 
 ## Pasos sugeridos
